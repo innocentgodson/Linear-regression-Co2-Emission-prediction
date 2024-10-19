@@ -20,11 +20,11 @@ However, the focus here is on simple linear regression.
 Now, let’s see how linear regression works. 
 Looking at the dataset again to understand linear regression, we can plot our variables. We show Engine size as an independent variable, and Emission as the target value that we would like to predict. A scatterplot clearly shows the relation between variables where changes in one variable "explain" or possibly "cause" changes in the other variable.
 
-Also, it indicates that these variables are linearly related.
+**Also, it indicates that these variables are linearly related.
 With linear regression you can fit a line through the data.
 For instance, as the EngineSize increases, so do the emissions.
 With linear regression, you can model the relationship of these variables.
-A good model can be used to predict what the approximate emission of each car is.
+A good model can be used to predict what the approximate emission of each car is.**
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Understanding the Data
 

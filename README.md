@@ -25,8 +25,6 @@ With linear regression you can fit a line through the data.
 For instance, as the EngineSize increases, so do the emissions.
 With linear regression, you can model the relationship of these variables.
 A good model can be used to predict what the approximate emission of each car is.
-
-**Understanding the Data**
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Understanding the Data
 

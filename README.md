@@ -61,8 +61,7 @@ The Objective of this project are to:
 
 **Multiple Linear Regression**
 
-Objectives
-After completing this lab you will be able to:
+**Objectives**
 
 - Use scikit-learn to implement Multiple Linear Regression
 - Create a model, train it, test it and use the model
